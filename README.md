@@ -4,7 +4,7 @@ Fallout Shelter Test Bank for Game Show Gauntlet Answers.
 # Description
 
 Fallout Shelter Test Bankis a simple webpage displaying answers to the Game Show Gauntlet quests in the free to play Game: Fallout Shelter.  
-[Click Me to be taken to the Test Bank](https://kernscode.github.io/FalloutShelterTestBank/)
+[Click Me to be taken to the Test Bank](https://kittykerns.github.io/FalloutShelterTestBank/)
 
 # Usage
 
