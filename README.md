@@ -13,7 +13,7 @@ As far as I know, all answers are correct, though if they are not, please contac
 
 # Support
 
-For support, feel free to contact me on Twitter: @KernsCode 
+For support, feel free to contact me on Twitter: @KittyKerns 
 
 # License
 
